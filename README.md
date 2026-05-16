@@ -1,7 +1,3 @@
-<style>*{
-  text-align: center;
-  padding: 10px;
-}</style>
 <img src="src/imges/Group 1.svg" alt="YtYt logo" width="150px" style="display: block; margin: auto;"><br>
 # Школа {программирования}для тех, кому нужны реальные навыки,а не просто сертификат<br>
 *Пройдите тестирование, чтобы получить доступ к бесплатным вводным урокам*<br><br>
